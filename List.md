@@ -11,13 +11,13 @@ A list of open source front-end tools and resources for web designers and develo
 |  [Ink](http://ink.sapo.pt/ "Ink") | Create responsive web interfaces quick and efficiently. |
 | [Skeleton](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
 | [Pure.css](https://purecss.io/ "Pure") | A set of small, responsive CSS modules that you can use in every web project.|
- [Material Ui](http://www.material-ui.com/#/) | A Set of React Components that Implement Google's Material Design |
+| [Material Ui](http://www.material-ui.com/#/) | A Set of React Components that Implement Google's Material Design |
 
 ### Css preprocessor:
 
 | Name/Link | Description |
 | --- | --- |
-| [Sass] () | Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. |
+| [Sass](http://sass-lang.com/) | Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. |
 | [Less](http://lesscss.org/) | Less is a CSS pre-processor, meaning that it extends the CSS language, it runs inside Node, in the browser and inside Rhino. |
 
 ### Javascript framework:
