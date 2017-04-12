@@ -52,7 +52,7 @@ A list of open source front-end tools and resources for web developers and desig
 | [Animate.css](https://daneden.github.io/animate.css/) | animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness. |
 
 ### Cross browser:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Modernizr](https://modernizr.com/) | It’s a collection of superfast tests – or “detects” as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user. |
 | [Polyfill.io](https://polyfill.io/v2/docs/) | Polyfill.io reads the User-Agent header of each request and returns polyfills that are suitable for the requesting browser. Tailor the response based on the features you're using in your app |
@@ -60,7 +60,7 @@ Name/Link | Description |
 | [Reset.css](http://meyerweb.com/eric/tools/css/reset/) | The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on. |
 
 ### Typography:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Google Fonts](https://fonts.google.com/) | Making the web more beautiful, fast, and open through great typography. |
 | [Adobe Typekit](https://typekit.com/) | Great fonts, where you need them |
@@ -68,7 +68,7 @@ Name/Link | Description |
 | [FontReach](http://www.fontreach.com/) | FontReach scans the top million sites to show font usage across the web. |
 
 ### Patterns & Texture:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects. |
 | [Trianglify Generator](http://qrohlf.com/trianglify-generator/) | Trianglify Generator
@@ -76,30 +76,30 @@ Name/Link | Description |
 | [TextureKind](http://www.textureking.com/) | Free Stock Textures. |
 | [Mapstylr](http://www.mapstylr.com/) | MapStylr is a free online tool that helps you create, store and publish unique google map styles. |
 
-###Free resources for designers
-Name/Link | Description |
+### Free resources for Designers
+| Name/Link | Description |
 | --- | --- |
 | [Madefordesigners](http://madefordesigners.com/) | Download free curated resources for designers |
 
 ### Colors:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Color Hunt](http://www.colorhunt.co/) | Color Hunt is a social platform for everyone who love colors. We aim to create a curated collection of beautiful color palettes. |
 
 ### Paid themes:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Themeforest](https://themeforest.net/) | WordPress themes, web templates and more. Brought to you by the largest global community of creatives. |
 
 ### Share code:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Pastebin](https://pastebin.com/) | Pastebin is a website where you can store any text online for easy sharing. The website is mainly used by programmers to store pieces of sources code or configuration information, but anyone is more than welcome to paste any type of text. |
 | [GitHubGist]( https://gist.github.com/ ) | Instantly share code, notes, and snippets. By GitHub for GitHub users. |
 | [Choap](http://chopapp.com/) | Paste code snippets, add notes. Send to nerds. |
 
 ### CMS:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Wordpress](https://wordpress.org/) | WordPress is open source software you can use to create a beautiful website, blog, or app. CODE IS POETRY |
 | [Joomla!](https://www.joomla.org/) | Joomla! is an award-winning content management system (CMS), which enables you to build Web sites and powerful online applications. |
@@ -108,15 +108,15 @@ Name/Link | Description |
 | [Magento](https://magento.com/) | Magento is the leading platform for open commerce innovation. Every year, Magento handles over $50 billion in gross merchandise volume. Here’s what makes Magento number one… |
 
 ### Minifier:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 | [Javascript minifier](http://javascript-minifier.com/) | JavaScript Minifier/Compressor. Free! Provides an API. Simple Quick and Fast. |
 | [Css minifier](http://cssminifier.com/)|Online CSS Minifier/Compressor. Free! Provides an API. Simple Quick and Fast. |
 
 ### Sketch:
-Name/Link | Description |
+| Name/Link | Description |
 | --- | --- |
 |[Sneakpeekit](http://sneakpeekit.com/) |Planning apps or websites is not always completely digital: sometimes you may need pencil, paper and some good sketch sheet templates to speed up your creative process.|
 | [Interfacessketch](http://www.interfacesketch.com/) | If you're designing a website or app, these simple templates are designed to help you sketch your ideas on paper. | 
 
-Version 0.3, work in progress :)
+###### Version 0.3, work in progress :)
