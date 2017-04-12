@@ -119,4 +119,4 @@ Name/Link | Description |
 |[Sneakpeekit](http://sneakpeekit.com/) |Planning apps or websites is not always completely digital: sometimes you may need pencil, paper and some good sketch sheet templates to speed up your creative process.|
 | [Interfacessketch](http://www.interfacesketch.com/) | If you're designing a website or app, these simple templates are designed to help you sketch your ideas on paper. | 
 
-Version 0.2, work in progress :)
+Version 0.3, work in progress :)
