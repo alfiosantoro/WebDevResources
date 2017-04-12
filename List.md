@@ -75,11 +75,6 @@ A list of open source front-end tools and resources for web developers and desig
 | [TextureKind](http://www.textureking.com/) | Free Stock Textures. |
 | [Mapstylr](http://www.mapstylr.com/) | MapStylr is a free online tool that helps you create, store and publish unique google map styles. |
 
-### Free resources for Designers
-| Name/Link | Description |
-| --- | --- |
-| [Madefordesigners](http://madefordesigners.com/) | Download free curated resources for designers |
-
 ### Colors:
 | Name/Link | Description |
 | --- | --- |
@@ -89,6 +84,17 @@ A list of open source front-end tools and resources for web developers and desig
 | Name/Link | Description |
 | --- | --- |
 | [Themeforest](https://themeforest.net/) | WordPress themes, web templates and more. Brought to you by the largest global community of creatives. |
+
+### Free themes:
+| Name/Link | Description |
+| --- | --- |
+| [OnePageLove](https://onepagelove.com/templates/free-templates) | Free One Page Templates that are great to quickly test our ideas before committing to a big project development. |
+| [Boostraptaste](https://bootstraptaste.com/) | We collect and list super awesome free Bootstrap Templates and themes. |
+
+### Free resources for Designers:
+| Name/Link | Description |
+| --- | --- |
+| [Madefordesigners](http://madefordesigners.com/) | Download free curated resources for designers |
 
 ### Share code:
 | Name/Link | Description |
@@ -119,3 +125,4 @@ A list of open source front-end tools and resources for web developers and desig
 | [Interfacessketch](http://www.interfacesketch.com/) | If you're designing a website or app, these simple templates are designed to help you sketch your ideas on paper. | 
 
 ###### Version 0.3, work in progress :)
+
