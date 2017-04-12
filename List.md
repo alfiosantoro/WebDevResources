@@ -71,8 +71,7 @@ A list of open source front-end tools and resources for web developers and desig
 | Name/Link | Description |
 | --- | --- |
 | [Hero Patterns](http://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects. |
-| [Trianglify Generator](http://qrohlf.com/trianglify-generator/) | Trianglify Generator
- |
+| [Trianglify Generator](http://qrohlf.com/trianglify-generator/) | Trianglify Generator |
 | [TextureKind](http://www.textureking.com/) | Free Stock Textures. |
 | [Mapstylr](http://www.mapstylr.com/) | MapStylr is a free online tool that helps you create, store and publish unique google map styles. |
 
